@@ -1,0 +1,16 @@
+{
+  "placeholderImages": [
+    {
+      "id": "user-avatar",
+      "description": "User avatar",
+      "imageUrl": "https://picsum.photos/seed/user-avatar/40/40",
+      "imageHint": "person portrait"
+    },
+    {
+      "id": "faculty-photo",
+      "description": "Faculty member's photo",
+      "imageUrl": "https://picsum.photos/seed/faculty-photo/128/128",
+      "imageHint": "person portrait"
+    }
+  ]
+}
